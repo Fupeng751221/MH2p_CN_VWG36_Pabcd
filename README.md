@@ -1,6 +1,6 @@
 # 途锐中国版 CarPlay 改装合集：全屏 + 无线 + Android Auto + 导航上 HUD + CarPlay 地图上仪表 + 仪表信息框
 
-让中国版大众途锐（MH2p_CN_VWG36_P2876 车机）用一个 U 盘一次刷入下面几项改装。最新版本见 [Releases](https://github.com/Fupeng751221/MH2p_CN_VWG36_P2876/releases/latest)。
+让中国版大众途锐（MH2p_CN_VWG36_P2876 车机）用一个 U 盘一次刷入下面几项改装。最新版本见 [Releases](https://github.com/Fupeng751221/MH2p_CN_VWG36_Pabcd/releases/latest)。
 
 - **全屏 CarPlay**：去掉黑边，铺满中控屏
 - **无线 CarPlay**、**Android Auto**：开启原厂未激活的功能（LawPaul 作品）
@@ -20,7 +20,7 @@
 ## 安装
 
 1. **准备 U 盘**：32GB 以内，格式化为 **FAT32**（Windows：右键 → 格式化；Mac：磁盘工具 → 抹掉 → MS-DOS (FAT)）。
-2. **复制文件**：从 [Releases](https://github.com/Fupeng751221/MH2p_CN_VWG36_P2876/releases/latest) 下载 zip，解压后把**里面的全部内容**复制到 U 盘根目录。
+2. **复制文件**：从 [Releases](https://github.com/Fupeng751221/MH2p_CN_VWG36_Pabcd/releases/latest) 下载 zip，解压后把**里面的全部内容**复制到 U 盘根目录。
 3. **选择功能**（可选）：双击 U 盘里的 **「改装设置（Windows）.exe」** 或 **「改装设置（Mac）.command」**，在打开的网页里选每个功能"安装 / 卸载 / 不处理"、选信息框项目，点「保存到 U 盘」。全部默认安装可以跳过（Mac 用户建议运行一次，清理隐藏文件）。
 
    ![改装设置程序](Docs/Img/configurator.png)
